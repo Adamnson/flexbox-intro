@@ -24,6 +24,10 @@
   justify-content: flex-end;
 }
 
+.signup {
+  maring-left: auto;
+}
+
 .login {
   margin-left: 20px;
 }
